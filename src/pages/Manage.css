@@ -1,0 +1,22 @@
+.manage-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.manage-message {
+  background-color: #2d3e50;
+  color: #ecf0f1;
+  border: 1px solid #34495e;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+  font-size: 18px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.manage-message p {
+  margin: 0;
+  line-height: 1.5;
+}
